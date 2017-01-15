@@ -1,4 +1,4 @@
-Local manifest for CyanogenMod 14.1
+Local manifest for LineageOS 14.1
 ==============
 
 To add this CAF-powered manifest to your local repository, use this command in source's root:
