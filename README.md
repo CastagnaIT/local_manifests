@@ -1,4 +1,4 @@
-Local manifest for CyanogenMod 14.1 TWRP Recovery
+Local manifest for LineageOS 14.1 TWRP Recovery
 ==============
 
 To add this CAF-powered manifest to your local repository, use this command in source's root:
@@ -14,5 +14,5 @@ Then to sync up:
 To build:
 
     source build/envsetup.sh
-    lunch cm_ks01lte-eng
+    lunch lineage_ks01lte-eng
     make -j12 recoveryimage
